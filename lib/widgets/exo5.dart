@@ -8,7 +8,7 @@ class Exo5Widget extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: const Text('Exercice 5 - Image Asset')),
       body: Center(
-        child: Image.asset('assets/images/flutter.png'),
+        child: Image.asset('assets/images/dog.png'),
       ),
     );
   }

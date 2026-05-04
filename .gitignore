@@ -1,0 +1,28 @@
+# Claude
+.claude/
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+pubspec.lock
+
+# Platform folders
+android/
+ios/
+linux/
+macos/
+windows/
+web/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Misc
+.metadata
+analysis_options.yaml
+README.md
+test/
